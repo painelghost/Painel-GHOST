@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR blue] ADDON [COLOR red]  GHOST [COLOR blue][/COLOR][/B]</name>
+<name>[B][COLOR blue] ADDON [/COLOR][COLOR red] GHOST [/COLOR][/B]</name>
 <thumbnail>.jpg</thumbnail>
 <externallink></externallink>
 <fanart>.jpg</fanart>
