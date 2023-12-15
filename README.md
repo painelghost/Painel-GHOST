@@ -4,7 +4,7 @@ Bem-vindo ao painel Ghost! Este é o lugar onde você pode gerenciar todo o cont
 
 ## Tópicos
 
-- [Coteudos](#Conteudo)
+- [Coteudos](Conteudo)
 
 
 ## Conteudos
