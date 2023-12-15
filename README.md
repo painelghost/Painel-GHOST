@@ -1,4 +1,4 @@
-# Painel Ghost
+# Painel GHOST
 
 Bem-vindo ao painel Ghost! Este é o lugar onde você pode gerenciar todo o conteúdo do seu site.
 
