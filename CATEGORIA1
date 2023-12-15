@@ -1,9 +1,9 @@
 <channels>
 <channel>
-<name>[COLOR red]FILMES[/COLOR]</name>
-<thumbnail>https://i.pinimg.com/564x/b5/68/be/b568be97bee31e0cebe27952d6a508e5.jpg</thumbnail>
+<name>[COLOR red]FILMES de GUERRA[/COLOR]</name>
+<thumbnail>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILMES</externallink> 
-<fanart>https://ia601508.us.archive.org/8/items/categoria_202010/categoria.jpg</fanart>
+<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
 <info>
 
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR red]SÉRIES[/COLOR]</name>
-<thumbnail>https://i.pinimg.com/564x/83/99/e6/8399e6aa62b389c4b68b53d71b229358.jpg</thumbnail>
+<name>[COLOR red]FILMES de Ficção científica[/COLOR]</name>
+<thumbnail>https://media.istockphoto.com/id/891917884/pt/foto/space-station.jpg?s=612x612&w=0&k=20&c=KedNMAATBecHj2RZptnbTQElblYmpRtUDkM_etTSVyI=</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SERIESCATEGORIAS</externallink>
-<fanart>https://ia601508.us.archive.org/8/items/categoria_202010/categoria.jpg</fanart>
+<fanart>https://media.istockphoto.com/id/891917884/pt/foto/space-station.jpg?s=612x612&w=0&k=20&c=KedNMAATBecHj2RZptnbTQElblYmpRtUDkM_etTSVyI=</fanart>
 <info>
 
 
-[COLOR deeppink]|[COLOR blue] - OS MELHORES SERIADOS   -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[COLOR blue] OS MELHORES Ficção científica  -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
 
@@ -30,15 +30,15 @@
 
 <channels>
 <channel>
-<name>[COLOR red]DESENHOS[/COLOR]</name>
-<thumbnail>https://i.pinimg.com/564x/88/8e/83/888e83b379cc945b357fd2f691b17bd0.jpg</thumbnail>
+<name>[COLOR red]FILMES de Ação[/COLOR]</name>
+<thumbnail>https://s2.glbimg.com/fkytqDTZ9d7iCdLkRGdD_RRBNtg=/e.glbimg.com/og/ed/f/original/2020/10/30/resized_matrix_fb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DESENHOS</externallink>     
-<fanart>https://ia601508.us.archive.org/8/items/categoria_202010/categoria.jpg</fanart>
+<fanart>https://s2.glbimg.com/fkytqDTZ9d7iCdLkRGdD_RRBNtg=/e.glbimg.com/og/ed/f/original/2020/10/30/resized_matrix_fb.jpg</fanart>
 <info>
 
 
 
-[COLOR deeppink][COLOR blue] - OS MELHORES DESENHOS  -[COLOR deeppink]|[/COLOR]</info> 
+[COLOR deeppink][COLOR blue] OS MELHORES Ação  -[COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels> 
 
@@ -47,39 +47,17 @@
 
 <channels>
 <channel>
-<name>[COLOR red]ANIMES[/COLOR]</name>
-<thumbnail>https://i.pinimg.com/564x/e9/2e/04/e92e04d1f387968965080844ff1bd5e7.jpg</thumbnail>  
+<name>[COLOR red]FILMES de TERROR[/COLOR]</name>
+<thumbnail></thumbnail>  
 <externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ANIMES</externallink>
-<fanart>https://ia601508.us.archive.org/8/items/categoria_202010/categoria.jpg</fanart>
+<fanart>https://www.fatosdesconhecidos.com.br/wp-content/uploads/2019/07/8-46.jpg</fanart>
 <info>
 
 
 
-[COLOR deeppink][COLOR blue] - OS MELHORES ANIMES  -[COLOR deeppink]|[/COLOR]</info> 
+[COLOR deeppink][COLOR blue] OS MELHORES TERROR  -[COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels> 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
-  https://raw.githubusercontent.com/carivaldo/PLUTO-TV-/main/README.md
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-
-<channels>
-<channel>
-<name>[COLOR red]PLUTO-TV[/COLOR]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOP_aGucxwSiOgTsG8CIvuo7veYlp9XVmq9d-HtH9yk4-G8zu--Hwf8l7e4EATuAGLH5E&usqp=CAU</thumbnail>  
-<externallink> https://raw.githubusercontent.com/carivaldo/PLUTO-TV-/main/README.md</externallink>
-<fanart>https://cdn.technadu.com/wp-content/uploads/2018/09/Pluto-TV-Review-Enjoy-Free-TV-Online-696x392.jpg</fanart>
-<info>
-
-
-
-[COLOR deeppink][COLOR blue] - OS MELHORES ANIMES  -[COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-    
