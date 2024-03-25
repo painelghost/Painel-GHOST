@@ -1,13 +1,13 @@
 <channels>
 <channel>
-<name>[COLOR red]FILMES de GUERRA[/COLOR]</name>
+<name>[COLOR blue]TV[/COLOR]</name>
 <thumbnail>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/FILMES</externallink> 
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/tv.xml</externallink> 
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
 <info>
 
 
-[COLOR deeppink][COLOR blue] - OS MELHORES LANÇAMENTOS -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink][COLOR blue]TV[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR red]FILMES de Ficção científica[/COLOR]</name>
+<name>[COLOR red]FILMES[/COLOR]</name>
 <thumbnail>https://media.istockphoto.com/id/891917884/pt/foto/space-station.jpg?s=612x612&w=0&k=20&c=KedNMAATBecHj2RZptnbTQElblYmpRtUDkM_etTSVyI=</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/SERIESCATEGORIAS</externallink>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Filmes/f.xml</externallink>
 <fanart>https://media.istockphoto.com/id/891917884/pt/foto/space-station.jpg?s=612x612&w=0&k=20&c=KedNMAATBecHj2RZptnbTQElblYmpRtUDkM_etTSVyI=</fanart>
 <info>
 
 
-[COLOR deeppink]|[COLOR blue] OS MELHORES Ficção científica  -[COLOR deeppink]|[/COLOR]</info>
+[COLOR deeppink]|[COLOR blue] OS MELHORES Filmes  -[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
 
@@ -32,32 +32,14 @@
 <channel>
 <name>[COLOR red]FILMES de Ação[/COLOR]</name>
 <thumbnail>https://s2.glbimg.com/fkytqDTZ9d7iCdLkRGdD_RRBNtg=/e.glbimg.com/og/ed/f/original/2020/10/30/resized_matrix_fb.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/DESENHOS</externallink>     
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Series/s.xml</externallink>     
 <fanart>https://s2.glbimg.com/fkytqDTZ9d7iCdLkRGdD_RRBNtg=/e.glbimg.com/og/ed/f/original/2020/10/30/resized_matrix_fb.jpg</fanart>
 <info>
 
 
 
-[COLOR deeppink][COLOR blue] OS MELHORES Ação  -[COLOR deeppink]|[/COLOR]</info> 
+[COLOR deeppink][COLOR blue] AS MELHORES Series  -[COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels> 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
-
-<channels>
-<channel>
-<name>[COLOR red]FILMES de TERROR[/COLOR]</name>
-<thumbnail></thumbnail>  
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/ANIMES</externallink>
-<fanart>https://www.fatosdesconhecidos.com.br/wp-content/uploads/2019/07/8-46.jpg</fanart>
-<info>
-
-
-
-[COLOR deeppink][COLOR blue] OS MELHORES TERROR  -[COLOR deeppink]|[/COLOR]</info> 
-</channel>
-</channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
