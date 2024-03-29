@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR red]LANCAMENTOS[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg</thumbnail>                           
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LANCAMENTO</externallink>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Filmes/lançamento.xml</externallink>
 <fanart>https://media.themoviedb.org/t/p/w533_and_h300_bestv2/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg</fanart>   
 <info>[COLOR deeppink]|[COLOR blue] - OS MELHORES LANÇAMENTOS - [COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -12,7 +12,7 @@
 <channel>
 <name>[COLOR red]TODOS[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqMYUtyrRJrZ1zKQvBfLgPh1c0T.jpg</thumbnail>                           
-<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/LANCAMENTO</externallink>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Filmes/todos.xml</externallink>
 <fanart>https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kSh5AfkJ38UqjbUvFrPQlvKNU0v.jpg</fanart>   
 <info>[COLOR deeppink]|[COLOR blue] - TODOS OS FILMES - [COLOR deeppink]|[/COLOR]</info>
 </channel>
