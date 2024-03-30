@@ -4,14 +4,19 @@
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
 <externallink>http://tv1.cs10.tv/get.php?username=iptv82384635&password=65152&type=m3u_plus</externallink> 
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
-<info>
-
-
-[COLOR deeppink]|[COLOR blue]Lista de Canais Criada Por Rhangel Furtado - Necessário Plugin F4MTESTER[COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[COLOR blue]Lista de Canais Atualizada Para Funcionar Sem F4MTESTER[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR blue]PAY-PER-VIEW[/COLOR]</name>
+<thumbnail>https://png.pngtree.com/png-vector/20231123/ourmid/pngtree-pay-per-view-pay-pay-per-png-image_10630876.png</thumbnail>
+<externallink></externallink>
+<fanart>https://assets-global.website-files.com/640b40225e0d945eb16904e1/65969f7f30fe552d1b5ea91b_hero.img.png</fanart>
+<info>[COLOR deeppink]|[COLOR blue] BBB24 [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels> 
 
 <channels>
 <channel>
@@ -19,14 +24,9 @@
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/Cinema_banner_alphabet_sign_marquee_light_bulb_vintage_carnival_or_circus_style__Vector_illustration.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Filmes/f.xml</externallink>
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
-<info>
-
-
-[COLOR deeppink]|[COLOR blue] OS MELHORES Filmes [COLOR deeppink]|[/COLOR]</info>
+<info>[COLOR deeppink]|[COLOR blue] OS MELHORES Filmes [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
 
 <channels>
 <channel>
@@ -34,12 +34,6 @@
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/download-removebg-preview.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Series/s.xml</externallink>     
 <fanart>https://s2.glbimg.com/fkytqDTZ9d7iCdLkRGdD_RRBNtg=/e.glbimg.com/og/ed/f/original/2020/10/30/resized_matrix_fb.jpg</fanart>
-<info>
-
-
-
-[COLOR deeppink][COLOR blue] AS MELHORES Series [COLOR deeppink]|[/COLOR]</info> 
+<info>[COLOR deeppink][COLOR blue] AS MELHORES Series [COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
