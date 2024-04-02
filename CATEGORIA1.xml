@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue]IPTVs[/COLOR]</name>
+<name>[COLOR red]|[COLOR blue]IPTVs[COLOR red]|[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/iptvs.xml</externallink> 
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]PAY-PER-VIEW[/COLOR]</name>
+<name>[COLOR red]|[COLOR blue]PAY-PER-VIEW[COLOR red]|[/COLOR]</name>
 <thumbnail>https://png.pngtree.com/png-vector/20231123/ourmid/pngtree-pay-per-view-pay-pay-per-png-image_10630876.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/tv.xml</externallink>
 <fanart>https://assets-global.website-files.com/640b40225e0d945eb16904e1/65969f7f30fe552d1b5ea91b_hero.img.png</fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]FILMES[/COLOR]</name>
+<name>[COLOR red]|[COLOR blue]FILMES[COLOR red]|[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/Cinema_banner_alphabet_sign_marquee_light_bulb_vintage_carnival_or_circus_style__Vector_illustration.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Filmes/f.xml</externallink>
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
