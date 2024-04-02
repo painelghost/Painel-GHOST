@@ -1,1 +1,29 @@
+<channels>
+<channel>
+<name>[COLOR blue]IPTV BR[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/countries/br.m3u</externallink> 
+<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
+<info>[COLOR deeppink]|[COLOR blue]Lista de Canais Atualizada Para Funcionar Sem F4MTESTER[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
 
+<channels>
+<channel>
+<name>[COLOR blue]IPTV RJ[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/subdivisions/br-rj.m3u</externallink> 
+<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
+<info>[COLOR deeppink]|[COLOR blue]Lista de Canais Atualizada Para Funcionar Sem F4MTESTER[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue]IPTV PORTUGAL[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
+<externallink>https://iptv-org.github.io/iptv/countries/pt.m3u</externallink> 
+<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
+<info>[COLOR deeppink]|[COLOR blue]Lista de Canais Portugal[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
