@@ -1,30 +1,10 @@
 <channels>
 <channel>
-<name>[COLOR blue]IPTV BR[/COLOR]</name>
+<name>[COLOR blue]IPTVs[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/countries/br.m3u</externallink> 
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/tv.xml</externallink> 
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
 <info>[COLOR deeppink]|[COLOR blue]Lista de Canais Atualizada Para Funcionar Sem F4MTESTER[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR blue]IPTV RJ[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/subdivisions/br-rj.m3u</externallink> 
-<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
-<info>[COLOR deeppink]|[COLOR blue]Lista de Canais Atualizada Para Funcionar Sem F4MTESTER[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[COLOR blue]IPTV PORTUGAL[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/countries/pt.m3u</externallink> 
-<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
-<info>[COLOR deeppink]|[COLOR blue]Lista de Canais Portugal[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -50,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue]Series [COLOR red]Nenhuma Serie Adicionada Ainda[/COLOR]</name>
+<name>[COLOR red]|[COLOR blue] Series [COLOR red]|[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/download-removebg-preview.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Series/s.xml</externallink>     
 <fanart>https://s2.glbimg.com/fkytqDTZ9d7iCdLkRGdD_RRBNtg=/e.glbimg.com/og/ed/f/original/2020/10/30/resized_matrix_fb.jpg</fanart>
