@@ -27,3 +27,13 @@
 <info>[COLOR deeppink]|[COLOR blue]Lista de Canais Portugal[COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR blue]IPTV VIP[/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
+<externallink>http://tv1.cs10.tv:80/get.php?username=iptv82384635&password=65152&type=m3u_plus</externallink> 
+<fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
+<info>[COLOR deeppink]|[COLOR blue]Lista VIP[COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
