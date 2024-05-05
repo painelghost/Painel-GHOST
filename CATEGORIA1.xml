@@ -11,10 +11,20 @@
 <channels>
 <channel>
 <name>[COLOR red]|[COLOR blue]YouTube Live[COLOR red]|[/COLOR]</name>
-<thumbnail>https://png.pngtree.com/png-vector/20231123/ourmid/pngtree-pay-per-view-pay-pay-per-png-image_10630876.png</thumbnail>
+<thumbnail>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/tv.xml</externallink>
-<fanart>https://assets-global.website-files.com/640b40225e0d945eb16904e1/65969f7f30fe552d1b5ea91b_hero.img.png</fanart>
-<info>[COLOR deeppink]|[COLOR blue] BBB24 [COLOR deeppink]|[/COLOR]</info>
+<fanart>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</fanart>
+<info>[COLOR deeppink]|[COLOR blue] Live [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<channels>
+<channel>
+<name>[COLOR red]|[COLOR blue]YouTube Infantil[COLOR red]|[/COLOR]</name>
+<thumbnail>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/infan.xml</externallink>
+<fanart>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</fanart>
+<info>[COLOR deeppink]|[COLOR blue] Live [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
 
