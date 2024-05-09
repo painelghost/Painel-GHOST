@@ -1,30 +1,10 @@
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]IPTVs[/COLOR]{/B}</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]IPTVs[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/iptvs.xml</externallink> 
 <fanart>https://c.wallhere.com/photos/c1/05/Battlefield_Hardline_video_games_war_soldier_military_bokeh_assault_rifle_rain-74730.jpg!d</fanart>
 <info>[COLOR deeppink]|[COLOR blue]Lista de Canais Atualizada Para Funcionar Sem F4MTESTER[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]YouTube Live[/COLOR]{/B}</name>
-<thumbnail>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/tv.xml</externallink>
-<fanart>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</fanart>
-<info>[COLOR deeppink]|[COLOR blue] Live [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels> 
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]YouTube Infantil[/COLOR]|[/B]</name>
-<thumbnail>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/infan.xml</externallink>
-<fanart>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</fanart>
-<info>[COLOR deeppink]|[COLOR blue] Live [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels> 
 
