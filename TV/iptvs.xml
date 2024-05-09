@@ -1,5 +1,25 @@
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]YouTube Live[/COLOR][/B]</name>
+<thumbnail>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/tv.xml</externallink>
+<fanart>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</fanart>
+<info>[COLOR deeppink]|[COLOR blue] Live [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]YouTube Infantil[/COLOR]|[/B]</name>
+<thumbnail>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/TV/infan.xml</externallink>
+<fanart>https://static.vecteezy.com/system/resources/thumbnails/016/314/846/small_2x/live-live-graphic-free-png.png</fanart>
+<info>[COLOR deeppink]|[COLOR blue] Live [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<channels>
+<channel>
 <name>[COLOR blue]IPTV BR[/COLOR]</name>
 <thumbnail>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/IMG/7688855-tv-logo-gratis-vetor-removebg-preview.png</thumbnail>
 <externallink>https://iptv-org.github.io/iptv/countries/br.m3u</externallink> 
