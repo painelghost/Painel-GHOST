@@ -27,3 +27,13 @@
 <info>[COLOR deeppink][COLOR blue] AS MELHORES Series [COLOR deeppink]|[/COLOR]</info> 
 </channel>
 </channels> 
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]Documentário [/COLOR]|[/B]</name>
+<thumbnail>https://media.themoviedb.org/t/p/original/wnWUVKO8gHfkrukZuIkLxkWJfiU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/painelghost/Painel-GHOST/main/Documentario/globoplay.xml</externallink>     
+<fanart>https://media.themoviedb.org/t/p/w533_and_h300_bestv2/ycNyvi9gk4ZI2NLk4KBbseNZbfN.jpg</fanart>
+<info>[COLOR deeppink][COLOR blue]  [COLOR deeppink]|[/COLOR]</info> 
+</channel>
+</channels> 
